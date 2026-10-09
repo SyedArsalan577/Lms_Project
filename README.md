@@ -44,3 +44,7 @@ Create an empty repository on GitHub, then replace YOUR-USERNAME:
 git remote add origin https://github.com/YOUR-USERNAME/lms_project.git
 git push -u origin main
 ```
+## Features
+- Add and manage books and members
+- Search for a member by ID
+- Java-based Library Management System
