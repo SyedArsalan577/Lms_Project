@@ -67,3 +67,4 @@ public class LibraryService {
         return member;
     }
 }
+// Member lookup will be added here
